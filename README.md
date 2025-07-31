@@ -12,7 +12,7 @@ An AI-powered web app that generates detailed recipes from ingredients you enter
 
 ## 🚀 Live Demo
 
-👉 [Visit the App on Vercel](https://your-vercel-url.vercel.app) 
+👉 [Visit the App on Vercel](recipe-generator-hd89fk56c-toobazafars-projects-81824695.vercel.app) 
 
 ## 🛠️ Tech Stack
 
